@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch BearAndBigBrother",
+      "request": "launch",
+      "mainClass": "BearAndBigBrother",
+      "projectName": "java-codeforces_15b5b84f"
+    },
+    {
+      "name": "dart_application_1",
+      "type": "dart",
+      "request": "launch",
+      "console": "terminal"
+    }
+  ]
+}
