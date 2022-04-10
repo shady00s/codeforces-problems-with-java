@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Teams",
+      "request": "launch",
+      "mainClass": "Teams",
+      "projectName": "java-codeforces_15b5b84f"
+    },
+    {
+      "type": "java",
       "name": "Launch BearAndBigBrother",
       "request": "launch",
       "mainClass": "BearAndBigBrother",
